@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/SINGHxTUSHAR/Data-Diggers.svg)](https://github.com/SINGHxTUSHAR/Data-Diggers/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/SINGHxTUSHAR/Data-Diggers.svg)](https://github.com/SINGHxTUSHAR/Data-Diggers/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/SINGHxTUSHAR/Data-Diggers.svg)](https://GitHub.com/SINGHxTUSHAR/Data-Diggers/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/SINGHxTUSHAR/Data-Diggers.svg)](https://GitHub.com/SINGHxTUSHAR/Data-Diggers/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/SINGHxTUSHAR/Data-Diggers.svg)](https://GitHub.com/SINGHxTUSHAR/Data-Diggers/pulls/)
